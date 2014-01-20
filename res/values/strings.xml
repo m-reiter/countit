@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Count It!</string>
+    <string name="action_resetall">Reset all</string>
+    <string name="confirm_reset">Reset all counters?</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="action_settings">Settings</string>
+    <string name="nCounters">Number of counters</string>
+    <string name="labels">Counter labels</string>
+    <string name="counter">Counter</string>
+    <string name="label">&lt;Label&gt;</string>
+    <string name="decrease">Decrease by 1</string>
+    <string name="increase">Increase by 1</string>
+    <string name="reset">Reset to 0</string>
+    <string name="value">Value</string>
+
+</resources>

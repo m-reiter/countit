@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <ListPreference
+        android:defaultValue="@string/defaultCounters"
+        android:entries="@array/nCounterChoices"
+        android:entryValues="@array/nCounterChoices"
+        android:key="pref_nCounters"
+        android:persistent="true"
+        android:title="@string/nCounters" />
+
+    <PreferenceCategory android:title="@string/labels" >
+        <EditTextPreference
+            android:key="label0"
+            android:persistent="true"
+            android:singleLine="true" />
+        <EditTextPreference
+            android:key="label1"
+            android:persistent="true"
+            android:singleLine="true" />
+        <EditTextPreference
+            android:key="label2"
+            android:persistent="true"
+            android:singleLine="true" />
+                <EditTextPreference
+            android:key="label3"
+            android:persistent="true"
+            android:singleLine="true" />
+                <EditTextPreference
+            android:key="label4"
+            android:persistent="true"
+            android:singleLine="true" />
+                <EditTextPreference
+            android:key="label5"
+            android:persistent="true"
+            android:singleLine="true" />
+                <EditTextPreference
+            android:key="label6"
+            android:persistent="true"
+            android:singleLine="true" />
+                <EditTextPreference
+            android:key="label7"
+            android:persistent="true"
+            android:singleLine="true" />
+                <EditTextPreference
+            android:key="label8"
+            android:persistent="true"
+            android:singleLine="true" />
+                <EditTextPreference
+            android:key="label9"
+            android:persistent="true"
+            android:singleLine="true" />
+                <EditTextPreference
+            android:key="label10"
+            android:persistent="true"
+            android:singleLine="true" />
+                <EditTextPreference
+            android:key="label11"
+            android:persistent="true"
+            android:singleLine="true" />
+                <EditTextPreference
+            android:key="label12"
+            android:persistent="true"
+            android:singleLine="true" />
+                <EditTextPreference
+            android:key="label13"
+            android:persistent="true"
+            android:singleLine="true" />
+                <EditTextPreference
+            android:key="label14"
+            android:persistent="true"
+            android:singleLine="true" />
+                <EditTextPreference
+            android:key="label15"
+            android:persistent="true"
+            android:singleLine="true" />
+        </PreferenceCategory>
+
+</PreferenceScreen>

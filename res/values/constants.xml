@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer name="maxCounters">16</integer>
+    <string name="defaultCounters">6</string>
+
+    <string-array name="nCounterChoices">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>6</item>
+        <item>8</item>
+        <item>9</item>
+        <item>12</item>
+        <item>16</item>
+    </string-array>
+
+    <integer-array name="nCounterValues">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>6</item>
+        <item>8</item>
+        <item>9</item>
+        <item>12</item>
+        <item>16</item>
+    </integer-array>
+
+    <integer-array name="longerSides">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>3</item>
+        <item>4</item>
+        <item>4</item>
+    </integer-array>
+
+    <integer-array name="shorterSides">
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>2</item>
+        <item>2</item>
+        <item>2</item>
+        <item>3</item>
+        <item>3</item>
+        <item>4</item>
+    </integer-array>
+    
+
+</resources>
